@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike Sharing Case Study  
+BoomBikes, a US bike-sharing provider, has faced revenue declines due to the ongoing COVID-19 pandemic. To recover once the lockdown ends, the company plans to develop a business strategy focused on understanding the demand for shared bikes post-quarantine. They have contracted a consulting firm to identify key factors affecting bike demand in the American market. The goal is to analyze variables influencing bike usage, determine how well they predict demand, and use this information to prepare for a profitable recovery after the pandemic.
 
 
 ## Table of Contents
@@ -71,14 +71,14 @@ o	Linear Regression
 
 
 ## Technologies Used
-•	Pandas: 2.2.2
-•	Matplotlib: 3.9.2
-•	Seaborn: 0.13.2
-•	Scikit-learn: 1.5.2
-•	Statsmodels: 0.14.4
+•	Pandas: 2.2.2  
+•	Matplotlib: 3.9.2  
+•	Seaborn: 0.13.2  
+•	Scikit-learn: 1.5.2  
+•	Statsmodels: 0.14.4  
 
-## Acknowledgements
-•	This project was inspired by Machine Learning-I Course as a part of IIIT-B PG Program in AI and ML
+## Acknowledgements  
+•	This project was inspired by Machine Learning-I Course as a part of IIIT-B PG Program in AI and ML  
 
 ## Contact
 Created by [@Yashaswini2705] - feel free to contact me!
